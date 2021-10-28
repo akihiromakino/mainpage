@@ -1,0 +1,106 @@
+ 
+
+header{
+  margin-top: 80px;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.header-container{
+  margin-right: 150px;
+}
+
+.header-container li{
+  list-style: none;
+  float: right;
+  line-height: 100px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.list{
+  color: black;
+  text-decoration: none;
+}
+
+.top-wrapper{
+  text-align: center;
+}
+
+.first-heading{
+  font-size: 30px;
+  margin-bottom: 50px;
+  letter-spacing: 10px;
+  background-color: black;
+  color: white;
+}
+
+.lesson-wrapper{
+  text-align: center;
+}
+
+.second-heading{
+  margin: 50px 0px 100px 0px;
+  font-size: 30px;
+  letter-spacing: 10px;
+  background-color: black;
+  color: white;
+}
+
+.lesson-container{
+  font-size: 15px;
+  padding-bottom: 30px;
+}
+
+.btn{
+  margin: 50px 0px 50px 0px;
+  width: 200px;
+  height: 100px;
+  font-size: 16px;
+}
+
+.message-wrapper{
+  margin-top: 100px;
+  text-align: center;
+}
+
+.profile-1{
+  background-color: lightgrey;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  letter-spacing: 10px;
+}
+
+.profile{
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-between;
+  line-height: 50px;
+}
+
+.profile li{
+  list-style: none;
+  font-size: 20px;
+  padding: 10px;
+  border-bottom: 1px solid black ;
+  width: 400px;
+}
+
+.images{
+  margin-top: 80px;
+}
+
+footer{
+  margin: 200px 0px 0px 150px;
+  height: 50px;
+  font-size: 20px;
+}
+
+
+
+
+
+
